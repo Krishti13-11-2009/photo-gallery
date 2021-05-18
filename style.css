@@ -1,0 +1,22 @@
+#app {
+    width: 100%;
+    height: 800px;
+    background-color: aliceblue;
+}
+
+.container
+{
+    text-align: center;
+}
+
+#myCarousel{
+    background: rgb(21,59,241);
+background: linear-gradient(90deg, rgba(21,59,241,1) 0%, rgba(241,23,218,1) 32%, rgba(242,175,93,1) 84%, rgba(232,195,7,1) 100%)
+}
+#myCarousel2{
+    background: rgb(241,10,220);
+background: linear-gradient(90deg, rgba(241,10,220,1) 0%, rgba(152,30,251,1) 34%, rgba(253,29,75,1) 58%, rgba(237,197,13,1) 100%);
+}
+#myCarousel2 iframe {
+    height: 500px;
+}
